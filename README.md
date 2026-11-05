@@ -1,2 +1,2 @@
 # Aulas.INFO
-Repositório para projetos de informática
+Repositório para projetos desenvolvidos em aulas de informática

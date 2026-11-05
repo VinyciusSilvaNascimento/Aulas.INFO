@@ -1,2 +1,2 @@
-# Proj.INFO
+# Aulas.INFO
 Repositório para projetos de informática
